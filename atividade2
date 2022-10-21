@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="atividade2.css">
+    <title>DARKBOOK</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+</head>
+<body>
+    <header><h1>DARKBOOK</h1></header>
+    
+<div class="div1">
+    <img src="icone.png" height="75px">
+</div>
+
+<ul>   
+    <a><li>Inicio</li></a>
+
+    
+</ul>
+
+<section>
+
+</section>
+</body>
